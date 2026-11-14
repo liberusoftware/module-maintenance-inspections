@@ -2,7 +2,7 @@
   "name": "module-maintenance-inspections",
   "display_name": "Maintenance Inspections",
   "description": "Tenant-scoped inspection templates, checklists, readings, failures, signatures, certificates, and follow-up.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "category": "capability",
   "provider": "Liberu\\Modules\\Maintenance\\Inspections\\InspectionsServiceProvider",
   "requires": {
